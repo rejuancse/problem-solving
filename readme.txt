@@ -1,6 +1,6 @@
 #https://onlinejudge.org/
 
-#UVA Problems
+#UVA Online Judge Problems
 1. 100
 2. 1124
 3. 10071
